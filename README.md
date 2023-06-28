@@ -2,7 +2,7 @@
 
 This repository contains the Power BI project for generating the weekly customer support report for Taika, a firm specializing in customer support services. The report provides valuable insights into the status of tickets, their categories, average customer satisfaction, and ticket distribution by country. Additionally, it features a user-friendly dropdown menu for selecting specific countries to analyze the results.
 
-![screenshot](https://github.com/StefanMilanov99/Customer_Support_Taika/assets/134857779/0d79ab7a-b890-4b2e-b299-ce9daa2a8dc0)
+![screenshot2](https://github.com/StefanMilanov99/Customer_Support_Taika/assets/134857779/38c9eb1c-457d-48f4-8475-6dc7ded737b4)
 
 
 ## Features
